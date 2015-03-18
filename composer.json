@@ -1,0 +1,30 @@
+
+{
+    "name": "smartest-edu/flysystem-public-url-plugin",
+    "description": "Plugin for Flysystem to expose the public url.",
+    "homepage": "https://github.com/SmartestEdu/FlysystemPublicUrlPlugin",
+    "keywords": [
+        "aws",
+        "AwsS3v2",
+        "flysystem",
+        "plugin",
+        "public",
+        "url"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Farmer",
+            "email": "work@mattfarmer.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SmartestEdu\\FlysystemPublicUrlPlugin\\": "src/"
+        }
+    },
+    "require": {
+        "league/flysystem-aws-s3-v2": "~1.0"
+    }
+}
