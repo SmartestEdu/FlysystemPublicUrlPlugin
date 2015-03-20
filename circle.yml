@@ -1,0 +1,13 @@
+machine:
+  php:
+    version: 5.5.11
+
+dependencies:
+  cache_directories:
+    - "vendor"
+  pre:
+    - sudo composer self-update
+
+test:
+  override:
+    - ./vendor/bin/phpcs --standard=PSR2 src/

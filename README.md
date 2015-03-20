@@ -10,6 +10,8 @@ Currently supported Adapters:
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/627fa83d-d6bb-4b7c-a7d2-adc5748a81ae/big.png)](https://insight.sensiolabs.com/projects/627fa83d-d6bb-4b7c-a7d2-adc5748a81ae)
 
+[![Circle CI](https://circleci.com/gh/SmartestEdu/FlysystemPublicUrlPlugin.svg?style=svg)](https://circleci.com/gh/SmartestEdu/FlysystemPublicUrlPlugin)
+
 
 ## Installation
 
