@@ -16,7 +16,7 @@ Currently supported Adapters:
 Using composer:
 
 ```bash
-composer require smartest-edu/flysystem-public-url-plugin dev-master
+composer require smartest-edu/flysystem-public-url-plugin
 ```
 
 
