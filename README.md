@@ -4,6 +4,7 @@ This is a [Flysystem](https://github.com/thephpleague/flysystem) Plugin that add
 
 Currently supported Adapters:
 * [`awss3v2`](https://github.com/thephpleague/flysystem-aws-s3-v2)
+* [`localWithHost`](https://github.com/SmartestEdu/OneupFlysystemBundle/blob/local-with-host/Adapter/LocalWithHost.php)
 
 
 ## Badges
