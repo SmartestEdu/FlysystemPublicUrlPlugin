@@ -1,9 +1,10 @@
 # Flysystem Public Url Plugin
 
-This is a [Flysystem](https://github.com/thephpleague/flysystem) Plugin that adds the ablity to get the public url for a file on a filesystem.
+This is a [Flysystem](https://github.com/thephpleague/flysystem) Plugin that adds the ability to get the public url for a file on a filesystem.
 
 Currently supported Adapters:
 * [`awss3v2`](https://github.com/thephpleague/flysystem-aws-s3-v2)
+* [`localWithHost`](https://github.com/SmartestEdu/OneupFlysystemBundle/blob/local-with-host/Adapter/LocalWithHost.php)
 
 
 ## Badges
