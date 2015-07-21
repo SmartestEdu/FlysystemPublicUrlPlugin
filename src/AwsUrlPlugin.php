@@ -80,7 +80,7 @@ class AwsUrlPlugin implements PluginInterface
 
         if ($this->adapter instanceof LocalWithHost) {
             return sprintf(
-                '%s/%s%s',
+                '%s/%s/%s',
                 $this->adapter->getBasePath(),
                 $this->adapter->getWebpath(),
                 $path
