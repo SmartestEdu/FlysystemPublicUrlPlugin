@@ -2,7 +2,6 @@
 
 namespace SmartestEdu\FlysystemPublicUrlPlugin;
 
-use League\Flysystem\Adapter\Local;
 use League\Flysystem\AwsS3v2\AwsS3Adapter;
 use League\Flysystem\Filesystem;
 use League\Flysystem\FilesystemInterface;
